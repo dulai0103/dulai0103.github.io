@@ -6,7 +6,16 @@
     <description>Recent content on zhangsan的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Sep 2022 15:49:03 +0800</lastBuildDate><atom:link href="https://www.zhangsan.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 15:03:17 +0800</lastBuildDate><atom:link href="https://www.zhangsan.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Detail</title>
+      <link>https://www.zhangsan.me/posts/blog-detail/</link>
+      <pubDate>Thu, 29 Sep 2022 15:03:17 +0800</pubDate>
+      
+      <guid>https://www.zhangsan.me/posts/blog-detail/</guid>
+      <description>echo &amp;ldquo;# dulai0103.github.io&amp;rdquo; &amp;raquo; README.md git init git add README.md git commit -m &amp;ldquo;first commit&amp;rdquo; git branch -M main git remote add origin https://github.com/dulai0103/dulai0103.github.io.git git push -u origin main</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://www.zhangsan.me/posts/my-first-post/</link>
